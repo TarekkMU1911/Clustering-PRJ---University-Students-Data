@@ -1,0 +1,39 @@
+This dataset provides comprehensive information on various factors associated with universities. Here's a more detailed description of each variable:
+
+1. Private: This categorical variable indicates whether the university is private or public, with levels "Yes" and "No" respectively.
+
+2. Apps: Number of applications received by the university.
+
+3. Accept: Number of applications accepted by the university.
+
+4. Enroll: Number of new students enrolled in the university.
+
+5. Top10perc: Percentage of new students from the top 10% of their high school class.
+
+6. Top25perc: Percentage of new students from the top 25% of their high school class.
+
+7. F.Undergrad: Number of full-time undergraduate students at the university.
+
+8. P.Undergrad: Number of part-time undergraduate students at the university.
+
+9. Outstate: Out-of-state tuition fees for the university.
+
+10. Room.Board: Cost of room and board at the university.
+
+11. Books: Estimated cost of books for students at the university.
+
+12. Personal: Estimated personal spending for students at the university.
+
+13. PhD: Percentage of faculty at the university who hold Ph.D. degrees.
+
+14. Terminal: Percentage of faculty at the university who hold terminal degrees (highest academic degree in their field).
+
+15. S.F.Ratio: Student-to-faculty ratio, indicating the number of students per faculty member.
+
+16. perc.alumni: Percentage of alumni who donate to the university.
+
+17. Expend: Instructional expenditure per student, indicating the amount spent on instruction per student.
+
+18. Grad.Rate: Graduation rate of the university.
+
+This dataset provides a comprehensive overview of various characteristics and metrics of universities, which can be used for analysis and comparison purposes in the field of education, research, and higher education administration.
